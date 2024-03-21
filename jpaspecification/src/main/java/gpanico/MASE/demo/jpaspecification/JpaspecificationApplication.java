@@ -1,0 +1,13 @@
+package gpanico.MASE.demo.jpaspecification;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JpaspecificationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JpaspecificationApplication.class, args);
+	}
+
+}
