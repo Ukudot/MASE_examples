@@ -1,0 +1,17 @@
+{
+	"themes": [
+		{
+			"name": "providers-only",
+			"types": [
+				"account"
+			]
+		},
+		{
+			"name": "testing",
+			"types": [
+				"login",
+				"account"
+			]
+		}
+	]
+}
